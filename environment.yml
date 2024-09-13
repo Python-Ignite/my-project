@@ -1,0 +1,6 @@
+name: my-project  # <-- the name of the environment. This can be anything you want.
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
